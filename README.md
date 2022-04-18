@@ -1,17 +1,18 @@
 ### Hey there! 👋
 
-I'm part-time working and getting my Master's in CS, with a focus on slightly more theoretical aspects of machine learning and more effective visualizations.
+I'm a machine learning researcher who makes packages that no one needs in my part-time.
 
-Here are some projects I'm working on:
-- 
-
-Here are some packages I've authored or contributed to (all in Julia):
-- ZhuyinPinyin.jl - functions for converting between zhuyin and pinyin
-- IDSGraphs.jl - tools for analyzing ideographs and their component relationships
-- CEDICT.jl - programmatic access to the CC-CEDICT dictionary
-- ARMANets.jl - implementation of ARMA-Nets layer (compatible with Flux)
-- MinesweeperSolvers.jl - assorted solvers for the minesweeper game (and a simple, fast game implementation)
-- ChineseCharacterFrequencies.jl - access to a bunch of different character frequencies for Chinese language texts
+Here are some of my Julia projects (some mostly completed, others still very much works-in-progress):
+- Exploring the Chinese language
+  - ZhuyinPinyin.jl - functions for converting between zhuyin and pinyin
+  - IDSGraphs.jl - tools for analyzing ideographs and their component relationships
+  - CEDICT.jl - programmatic access to the CC-CEDICT dictionary
+  - CJKFrequencies.jl - access to a bunch of different character frequencies for Chinese language texts
+- Miscellaneous games
+  - MinesweeperSolvers.jl - assorted solvers for the minesweeper game (and a simple, fast game implementation)
+  - MahjongTiles.jl - basics for working with Mahjong games (no actual game implementation)
+- Machine learning-related
+  - ARMANets.jl - implementation of ARMA-Nets layer (compatible with Flux)
 
 <!--
 Here are some ideas to get you started:
